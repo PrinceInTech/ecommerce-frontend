@@ -1,5 +1,5 @@
 // ===== CONFIG =====
-const API_URL = 'https://your-ecommerce-backend.onrender.com/api';
+const API_URL = 'https://ecommerce-backend-45d6.onrender.com/api';
 
 let currentUser = null;
 let cart = [];
